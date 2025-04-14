@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Retro Rack</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #fff;
+      color: #111;
+    }
+    header {
+      background-color: #000;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2em;
+      letter-spacing: 1px;
+    }
+    header p {
+      font-size: 1em;
+      font-style: italic;
+      color: #ccc;
+    }
+    main {
+      padding: 30px 20px;
+      text-align: center;
+    }
+    .btn {
+      display: inline-block;
+      margin: 15px 10px;
+      padding: 12px 20px;
+      background-color: #000;
+      color: #fff;
+      text-decoration: none;
+      border-radius: 8px;
+      font-size: 1em;
+    }
+    footer {
+      background: #f4f4f4;
+      padding: 20px;
+      text-align: center;
+      font-size: 0.9em;
+      color: #333;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Retro Rack</h1>
+    <p>Where luxury meets modern streetwear</p>
+  </header>
+
+  <main>
+    <h2>New Drops Coming Soon</h2>
+    <p>Stay tuned for our exclusive launches in Y2K shirts and wide-leg pants.</p>
+
+    <a class="btn" href="https://www.instagram.com/retrorack.in?igsh=MXNtcDJpN25yYWJoaQ==" target="_blank">Instagram</a>
+    <a class="btn" href="https://wa.me/qr/IUFXRUQOC2FEP1" target="_blank">Chat on WhatsApp</a>
+  </main>
+
+  <footer>
+    &copy; 2025 Retro Rack. All rights reserved.
+  </footer>
+
+</body>
+</html>
